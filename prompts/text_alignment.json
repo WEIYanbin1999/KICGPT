@@ -1,0 +1,5 @@
+{
+    "chat": {
+    "init_query": "You are an excellent assistant when it comes to reading, comprehending, and summarizing.\n{demonstrations_for_r}\nIn above examples, What do you think \"{r_text}\" mean? Summarize and descript its meaning using the format: \"If the example shows something A is {r_text} of something B, it means A is [mask] of B.\" Fill the mask and the statement should be as short as possible."
+    }
+}
