@@ -48,7 +48,7 @@ python3 link_prediction_scoring.py --dataset wn18rr --query head
 
 After running the link_prediction, the chatlog and output results are under the outputs/ directory. Text self-alignment is optional by appending --align_text at the tail of the following link prediction running commands.
 
-
+Hint: remember to specify your own OpenAI API key in arguments --api_key.
 
 
 
