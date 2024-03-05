@@ -31,7 +31,7 @@ Text self-alignment chatlog and outputs are under datasets/fb15k-237/alignment/ 
 
 
 
-#### Section 4. Link Prediction
+<a href="#5">#### Section 4. Link Prediction</a>
 
 
 ##### Link Prediction by directly performing candidate re-ranking
