@@ -7,7 +7,7 @@ Before executing the code, please download the fb1k-237 and wn18rr datasets firs
 
 For convenience, demonstration pools, retriever preliminary results, text-alignment clean mapping, and all support files for link prediction are involved in our provided datasets: [Download](https://drive.google.com/file/d/10B1SNey5jN2oYyON5xmOUtH3u0WQVBdK/view?usp=sharing)
 
-As a result, You can have a quick trial by directly turning to [**Section 4**](#5).
+As a result, You can have a quick trial by directly turning to **Section 4**.
 
 
 #### Section 2. Demonstration Pools
@@ -31,7 +31,7 @@ Text self-alignment chatlog and outputs are under datasets/fb15k-237/alignment/ 
 
 
 
-<a href="#5">#### Section 4. Link Prediction</a>
+#### Section 4. Link Prediction
 
 
 ##### Link Prediction by directly performing candidate re-ranking
