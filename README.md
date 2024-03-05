@@ -5,7 +5,9 @@ The official repository of EMNLP 2023 Findings paper: "KICGPT: Large Language Mo
 #### Section 1. Prepare the Datasets
 Before executing the code, please download the fb1k-237 and wn18rr datasets first and organize them into the datasets/ directory according to the repository structure.
 
-For convenience, demonstration pools, retriever preliminary results, text-alignment clean mapping, and all support files for link prediction are involved in our provided datasets.
+For convenience, demonstration pools, retriever preliminary results, text-alignment clean mapping, and all support files for link prediction are involved in our provided datasets:
+
+Download: https://drive.google.com/file/d/10B1SNey5jN2oYyON5xmOUtH3u0WQVBdK/view?usp=sharing
 As a result, You can have a quick trial by directly turning to **Section 4**.
 
 
